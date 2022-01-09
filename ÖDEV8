@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class CevreHesaplama {
+
+    public static void main(String[] args) {
+        Scanner klavye=new Scanner(System.in);
+    final double PI_SAYISI=3.141593;
+    System.out.println("Yarıçap gir.");
+    int yarıcap=klavye.nextInt();
+    double cevre;
+    cevre=2*PI_SAYISI*yarıcap;
+    System.out.println(yarıcap+" yarıçaplı dairenin çevresi "+cevre+"'dir.");
+    }
+}
