@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnesYaavuz
-- 👀 I’m interested in Yapay zeka
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me enesyaavuz23@gmail.com
